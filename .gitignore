@@ -1,0 +1,24 @@
+# CMake build files
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# VSCode files
+.vscode/
+
+# Ninja build files
+ninja/
+
+# Other build files
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.pdb
+
+# Ignore the .DS_Store file
+.DS_Store
+
+# Ignore the dsstore directory
+.Spotlight-V100/
